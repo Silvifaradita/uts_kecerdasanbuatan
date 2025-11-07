@@ -1,7 +1,7 @@
 # Kecerdasanbuatan_UTS
 
-Nama	: Nadiatul Umah
+Nama	: Silvi Fara Dita
 
-NIM	  : 312210500
+NIM	  : 3122100498
 
 Kelas : Ti.22.SE.1
